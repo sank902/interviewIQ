@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { useSelector } from "react-redux";
 import { X } from "lucide-react";
-import Auth from "../pages/auth";
+import Auth from "../pages/Auth";
 import { motion } from "framer-motion";
 
 function AuthModel({ onClose }) {
